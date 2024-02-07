@@ -1,0 +1,8 @@
+.c1{
+    border: 2px solid rgb(37, 215, 138);
+    background-color: rgb(255, 255, 255);
+    color: rgb(123, 16, 16);
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+}
