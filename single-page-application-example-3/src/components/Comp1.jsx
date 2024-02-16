@@ -8,7 +8,7 @@ const Comp1=()=>
         /*
          creating hyperlink
          */
-         <Link to="/ ">Child1</Link>
+         <Link to="/  ">Child1</Link>
         </>
     )
 }
